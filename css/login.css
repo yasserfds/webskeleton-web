@@ -6,6 +6,7 @@ body {
     background-color: #f5f6ff;
 }
 .container {
+    align-items: center;
     width: 300px;
     height: 440px;
     background: #f5f6ff;
